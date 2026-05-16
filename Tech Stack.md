@@ -1,0 +1,11 @@
+Tech Stack
+- Arduino Nano
+- ESP32
+- ENC28J60 Ethernet Module
+- Arduino IDE
+- Embedded C / C++
+- HTTP
+- TCP/IP
+- SPI
+- I2C
+- Sensor Interfacing
