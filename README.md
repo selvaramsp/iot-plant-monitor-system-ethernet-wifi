@@ -1,4 +1,4 @@
-# iot-plant-monitor-ethernet-ethernet-wifi
+# iot-plant-monitor-system-ethernet-wifi
 
 ## Project Description
 
